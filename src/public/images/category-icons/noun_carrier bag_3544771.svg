@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" width="200" height="100">
+  <!-- Body -->
+  <rect x="20" y="30" width="160" height="40" fill="white" stroke="black" stroke-width="2"/>
+  <!-- Windows -->
+  <rect x="30" y="35" width="40" height="30" fill="lightblue"/>
+  <rect x="130" y="35" width="40" height="30" fill="lightblue"/>
+  <!-- Wheels -->
+  <circle cx="60" cy="70" r="10" fill="black"/>
+  <circle cx="140" cy="70" r="10" fill="black"/>
+  <!-- Sedan text -->
+  <text x="100" y="90" font-family="Arial" font-size="10" text-anchor="middle">Sedan</text>
+</svg>

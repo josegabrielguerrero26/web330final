@@ -1,0 +1,7 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Triangle -->
+  <polygon points="100,20 40,180 160,180" fill="blue" />
+  
+  <!-- Letter S -->
+  <text x="90" y="130" font-family="Arial" font-size="100" fill="white">S</text>
+</svg>
